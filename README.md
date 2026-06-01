@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Jucielton (Elton) Santos 👋
 
-<!--
-**JucieltonSantos/jucieltonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack Sênior especializado em React, Next.js, Nest.js, Typescript.
 
-Here are some ideas to get you started:
+## Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Next.js
+
+- Contribuição para correção relacionada ao `serverActions.bodySizeLimit`
+- Problema identificado durante uso em produção
+- Proposta discutida com os mantenedores
+- Pull Request aceito e integrado ao framework
+
+🔗 Issue: [https://github.com/vercel/next.js/issues/XXXX](https://github.com/vercel/next.js/discussions/93989)
+
+🔗 Pull Request: [https://github.com/vercel/next.js/pull/YYYY](https://github.com/vercel/next.js/pull/94137)
